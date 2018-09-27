@@ -11,7 +11,7 @@
            review="review.lineageos.org" />
 
   <remote  name="gitlab"
-           fetch="https://gitlab.com"
+           fetch=".."
            review="review.lineageos.org" />
 
   <remote  name="private"

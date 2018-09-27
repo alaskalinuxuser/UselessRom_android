@@ -298,6 +298,7 @@
   <project path="system/qcom" name="LineageOS/android_system_qcom" groups="qcom" />
   <project path="system/security" name="LineageOS/android_system_security" groups="pdk" />
   <project path="system/vold" name="LineageOS/android_system_vold" groups="pdk" />
+  <project path="vendor/cm" name="LineageOS/android_vendor_cm" />
   <project path="vendor/uselessrom" name="alaskalinuxuser/android_vendor_uselessrom" />
   <project path="vendor/cmsdk" name="LineageOS/cm_platform_sdk" />
 
